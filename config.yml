@@ -31,7 +31,7 @@ users:
       # 地址信息
       address: '三峡职院东二电子信息学院公寓楼'
       #sendKey 当sendType为0时代表邮箱，当sendType为1时代表接收消息的QQ号码，当sendType为2时代表接收消息的pushplus token
-      sendKey: '624093191@qq.com'
+      sendKey: '2995068008@qq.com'
       # 附上经纬度查询地址（请自行选择自己的学校地址，address，lon，lat都要填查询到的）：http://api.map.baidu.com/lbsapi/getpoint/index.html
       #lon 经度
       lon: 111.32077262201958
